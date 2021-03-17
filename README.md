@@ -1,5 +1,5 @@
 # SC_S2S
-Sensor.community sensor2school first GitHub Trial.
+<DIV style="font-size:12pt;font-family:serif;">Sensor.community sensor2school first GitHub Trial.
 This repository shall make available all required components required to:
 -->Open a container on the sensor.community home-page introducing the sensor2school campaign
    from this container link to:
@@ -46,5 +46,5 @@ Part 2 Form-Container 1: auto-increment / DOM-ID / Text-html-conform / Check-sum
 Part 3 Form-Container 2(Edit): auto-increment / DOM-ID / text.html-conform / Check-sum /CR-LF
 ===========================================================================
 
-        
+ </div>       
 

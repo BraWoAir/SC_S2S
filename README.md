@@ -27,30 +27,45 @@ s2s-member records: are YML-Files listing key:content
 <BR>-----------------------------------------------------
 Split of the accommodation request:<BR>
    <U>Part 1:</u><LI> Include proposed facility-name (Name of the school)[30 char printable]
-       <LI> Include facility email-address (general porpose address)[64 chr email]
+        <LI>Include Country of facility from ISO3166
+        <LI>Include facility main language from ISO639
+        <LI>Include international Languages from main   
+        <LI>Include facility email-address (general porpose address)[64 chr email]
         <LI>include facility home-page-address (excluding protocoll&port)[has to return 200]
+        <LI>Include Location (main entry is D\°M\"S\' Hemisphere) conversion to d84 decimal
         <LI>Client JS will check content-against rules prior submit
 <BR><LI>CGI will test for emeil-provider return: valid address
 <LI>CGI will test for homepage-provider return: valid address no fwd
-<LI>CGI will provide token for to send follow-up for full request
+   <LI>CGI will provide <B>token for to send follow-up</b> for full request
+<LI>CGI will provide Country-prefix from ISO639 link with ISO3166-2   
    <BR><U>Part 2:</u> <LI>Include the spectrum of registration-info for to:
+        <LI>provide the full address information
         <LI>provide the required Map-popup of the facility
-        <LI>provide the required management-contact information required for administrating the program
+        <LI>provide the required management-contact(POC) information required for administrating the program
 <BR><LI>CGI will test the provided info for html-compliance
 <LI>CGI will submit a management-key for the facility to update provided info
    <BR><U>Part 3:</u> Maintenance form for facility-information including: edit, delete
 <BR>------------------------------------
-SC_S2S.language:
-<LI>Part 1 container-text: auto-increment / DOM-ID / Text-html-conform / Check-sum /CR-LF
-<LI>Part 2 Form-Container 1: auto-increment / DOM-ID / Text-html-conform / Check-sum / CR-LF
-<LI>Part 3 Form-Container 2(Edit): auto-increment / DOM-ID / text.html-conform / Check-sum /CR-LF
-<BR>=====================================
 Additional ressources:
    <LI>list-file ISO3166 Country, 2-Code, 3-Code, IDX, Phone Int.Prefix,
-   <LI>List-File ISO Language-List,EN, FR,
+   <LI>List-File ISO639 Language-List,EN, FR,
+   <LI>directory of ISO3166-country-flag-files from GITHUB   
    <LI>Known Address-scheme for countries:Country-2Code, white-chr spacing CRLF, POST-Var-Specs
-   <LI>Look-Up for registered S2S-Elements
-   <LI>Look-Up for other registered S2xxx Elements
+   <LI>(SC-Repository)Look-Up for registered S2S-Elements
+   <LI>(SC-Repository)Look-Up for other registered S2xxx Elements
+   <LI>(S2S-Repository) HTML-Content-Container for Pages-Display in Program-Book S2S
+   <LI>(S2S-Repository) HTML-Form-Part1/2 Introduction container input-elements
+   <LI>(S2S-Repository) CSV-S2S-Memeber directory (Token identified flat database)   
+   <LI>(S2S-Repository) HTML-Content-Container student-oriented course material
+   <LI>(SC-Repository) HTML-Content-Container SC-orga.Structures (Root-HUB/HUB/LAB/S2xxx/S2Ref/)
+<BR>--------------------------------------
+   Functional structures:
+   <LI>(S2S-Web-Site test-bed)https://pm.c4st.de/SC_S2S.PHP CGI-capable linked site from https://sensor.community #sensor2school(link)
+   <LI>Web-Site as colledge-book titeled: sensor2school Project-book Chapters opened through 'sticky book-marks'
+   <LI>Navigation: Intro to SC&S2S / S2S-enrolement process / SC-Orga-Elements intro(LAB/HUB) / SC-Programs-intro(S2xxx) / Intro sensor-repository students / 
+Intro sensor-repositories instructors / intro technical features SC-Sensor-Kids/Firmware/Network
+   <LI>Facility-Repository:<BR>SC-S2S will install sensor2school-Program-book for s2s-elements notes
+   <LI>Facility-Repository:<BR>SC-S2S will install Project-history for schools
       
 
  </div>       

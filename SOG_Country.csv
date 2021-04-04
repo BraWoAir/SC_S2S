@@ -1,0 +1,241 @@
+<OPTION class='SOG_Country' value='AF'>Afghanistan(+AF / AFG)</option>
+<OPTION class='SOG_Country' value='AL'>Albania(+AL / ALB)</option>
+<OPTION class='SOG_Country' value='DZ'>Algeria(+DZ / DZA)</option>
+<OPTION class='SOG_Country' value='AS'>American Samoa(+AS / ASM)</option>
+<OPTION class='SOG_Country' value='AD'>Andorra(+AD / AND)</option>
+<OPTION class='SOG_Country' value='AO'>Angola(+AO / AGO)</option>
+<OPTION class='SOG_Country' value='AI'>Anguilla(+AI / AIA)</option>
+<OPTION class='SOG_Country' value='AQ'>Antarctica(+AQ / ATA)</option>
+<OPTION class='SOG_Country' value='AG'>Antigua and Barbuda(+AG / ATG)</option>
+<OPTION class='SOG_Country' value='AR'>Argentina(+AR / ARG)</option>
+<OPTION class='SOG_Country' value='AM'>Armenia(+AM / ARM)</option>
+<OPTION class='SOG_Country' value='AW'>Aruba(+AW / ABW)</option>
+<OPTION class='SOG_Country' value='AU'>Australia(+AU / AUS)</option>
+<OPTION class='SOG_Country' value='AT'>Austria(+AT / AUT)</option>
+<OPTION class='SOG_Country' value='AZ'>Azerbaijan(+AZ / AZE)</option>
+<OPTION class='SOG_Country' value='BS'>Bahamas(+BS / BHS)</option>
+<OPTION class='SOG_Country' value='BH'>Bahrain(+BH / BHR)</option>
+<OPTION class='SOG_Country' value='BD'>Bangladesh(+BD / BGD)</option>
+<OPTION class='SOG_Country' value='BB'>Barbados(+BB / BRB)</option>
+<OPTION class='SOG_Country' value='BY'>Belarus(+BY / BLR)</option>
+<OPTION class='SOG_Country' value='BE'>Belgium(+BE / BEL)</option>
+<OPTION class='SOG_Country' value='BZ'>Belize(+BZ / BLZ)</option>
+<OPTION class='SOG_Country' value='BJ'>Benin(+BJ / BEN)</option>
+<OPTION class='SOG_Country' value='BM'>Bermuda(+BM / BMU)</option>
+<OPTION class='SOG_Country' value='BT'>Bhutan(+BT / BTN)</option>
+<OPTION class='SOG_Country' value='BO'>Bolivia(+BO / BOL)</option>
+<OPTION class='SOG_Country' value='BA'>Bosnia and Herzegovina(+BA / BIH)</option>
+<OPTION class='SOG_Country' value='BW'>Botswana(+BW / BWA)</option>
+<OPTION class='SOG_Country' value='BR'>Brazil(+BR / BRA)</option>
+<OPTION class='SOG_Country' value='IO'>British Indian Ocean Territory(+IO / IOT)</option>
+<OPTION class='SOG_Country' value='VG'>British Virgin Islands(+VG / VGB)</option>
+<OPTION class='SOG_Country' value='BN'>Brunei(+BN / BRN)</option>
+<OPTION class='SOG_Country' value='BG'>Bulgaria(+BG / BGR)</option>
+<OPTION class='SOG_Country' value='BF'>Burkina Faso(+BF / BFA)</option>
+<OPTION class='SOG_Country' value='BI'>Burundi(+BI / BDI)</option>
+<OPTION class='SOG_Country' value='KH'>Cambodia(+KH / KHM)</option>
+<OPTION class='SOG_Country' value='CM'>Cameroon(+CM / CMR)</option>
+<OPTION class='SOG_Country' value='CA'>Canada(+CA / CAN)</option>
+<OPTION class='SOG_Country' value='CV'>Cape Verde(+CV / CPV)</option>
+<OPTION class='SOG_Country' value='KY'>Cayman Islands(+KY / CYM)</option>
+<OPTION class='SOG_Country' value='CF'>Central African Republic(+CF / CAF)</option>
+<OPTION class='SOG_Country' value='TD'>Chad(+TD / TCD)</option>
+<OPTION class='SOG_Country' value='CL'>Chile(+CL / CHL)</option>
+<OPTION class='SOG_Country' value='CN'>China(+CN / CHN)</option>
+<OPTION class='SOG_Country' value='CX'>Christmas Island(+CX / CXR)</option>
+<OPTION class='SOG_Country' value='CC'>Cocos Islands(+CC / CCK)</option>
+<OPTION class='SOG_Country' value='CO'>Colombia(+CO / COL)</option>
+<OPTION class='SOG_Country' value='KM'>Comoros(+KM / COM)</option>
+<OPTION class='SOG_Country' value='CK'>Cook Islands(+CK / COK)</option>
+<OPTION class='SOG_Country' value='CR'>Costa Rica(+CR / CRI)</option>
+<OPTION class='SOG_Country' value='HR'>Croatia(+HR / HRV)</option>
+<OPTION class='SOG_Country' value='CU'>Cuba(+CU / CUB)</option>
+<OPTION class='SOG_Country' value='CW'>Curacao(+CW / CUW)</option>
+<OPTION class='SOG_Country' value='CY'>Cyprus(+CY / CYP)</option>
+<OPTION class='SOG_Country' value='CZ'>Czech Republic(+CZ / CZE)</option>
+<OPTION class='SOG_Country' value='CD'>Democratic Republic of the Congo(+CD / COD)</option>
+<OPTION class='SOG_Country' value='DK'>Denmark(+DK / DNK)</option>
+<OPTION class='SOG_Country' value='DJ'>Djibouti(+DJ / DJI)</option>
+<OPTION class='SOG_Country' value='DM'>Dominica(+DM / DMA)</option>
+<OPTION class='SOG_Country' value='DO'>Dominican Republic(+DO / DOM)</option>
+<OPTION class='SOG_Country' value='TL'>East Timor(+TL / TLS)</option>
+<OPTION class='SOG_Country' value='EC'>Ecuador(+EC / ECU)</option>
+<OPTION class='SOG_Country' value='EG'>Egypt(+EG / EGY)</option>
+<OPTION class='SOG_Country' value='SV'>El Salvador(+SV / SLV)</option>
+<OPTION class='SOG_Country' value='GQ'>Equatorial Guinea(+GQ / GNQ)</option>
+<OPTION class='SOG_Country' value='ER'>Eritrea(+ER / ERI)</option>
+<OPTION class='SOG_Country' value='EE'>Estonia(+EE / EST)</option>
+<OPTION class='SOG_Country' value='ET'>Ethiopia(+ET / ETH)</option>
+<OPTION class='SOG_Country' value='FK'>Falkland Islands(+FK / FLK)</option>
+<OPTION class='SOG_Country' value='FO'>Faroe Islands(+FO / FRO)</option>
+<OPTION class='SOG_Country' value='FJ'>Fiji(+FJ / FJI)</option>
+<OPTION class='SOG_Country' value='FI'>Finland(+FI / FIN)</option>
+<OPTION class='SOG_Country' value='FR'>France(+FR / FRA)</option>
+<OPTION class='SOG_Country' value='PF'>French Polynesia(+PF / PYF)</option>
+<OPTION class='SOG_Country' value='GA'>Gabon(+GA / GAB)</option>
+<OPTION class='SOG_Country' value='GM'>Gambia(+GM / GMB)</option>
+<OPTION class='SOG_Country' value='GE'>Georgia(+GE / GEO)</option>
+<OPTION class='SOG_Country' value='DE'>Germany(+DE / DEU)</option>
+<OPTION class='SOG_Country' value='GH'>Ghana(+GH / GHA)</option>
+<OPTION class='SOG_Country' value='GI'>Gibraltar(+GI / GIB)</option>
+<OPTION class='SOG_Country' value='GR'>Greece(+GR / GRC)</option>
+<OPTION class='SOG_Country' value='GL'>Greenland(+GL / GRL)</option>
+<OPTION class='SOG_Country' value='GD'>Grenada(+GD / GRD)</option>
+<OPTION class='SOG_Country' value='GU'>Guam(+GU / GUM)</option>
+<OPTION class='SOG_Country' value='GT'>Guatemala(+GT / GTM)</option>
+<OPTION class='SOG_Country' value='GG'>Guernsey(+GG / GGY)</option>
+<OPTION class='SOG_Country' value='GN'>Guinea(+GN / GIN)</option>
+<OPTION class='SOG_Country' value='GW'>Guinea-Bissau(+GW / GNB)</option>
+<OPTION class='SOG_Country' value='GY'>Guyana(+GY / GUY)</option>
+<OPTION class='SOG_Country' value='HT'>Haiti(+HT / HTI)</option>
+<OPTION class='SOG_Country' value='HN'>Honduras(+HN / HND)</option>
+<OPTION class='SOG_Country' value='HK'>Hong Kong(+HK / HKG)</option>
+<OPTION class='SOG_Country' value='HU'>Hungary(+HU / HUN)</option>
+<OPTION class='SOG_Country' value='IS'>Iceland(+IS / ISL)</option>
+<OPTION class='SOG_Country' value='IN'>India(+IN / IND)</option>
+<OPTION class='SOG_Country' value='ID'>Indonesia(+ID / IDN)</option>
+<OPTION class='SOG_Country' value='IR'>Iran(+IR / IRN)</option>
+<OPTION class='SOG_Country' value='IQ'>Iraq(+IQ / IRQ)</option>
+<OPTION class='SOG_Country' value='IE'>Ireland(+IE / IRL)</option>
+<OPTION class='SOG_Country' value='IM'>Isle of Man(+IM / IMN)</option>
+<OPTION class='SOG_Country' value='IL'>Israel(+IL / ISR)</option>
+<OPTION class='SOG_Country' value='IT'>Italy(+IT / ITA)</option>
+<OPTION class='SOG_Country' value='CI'>Ivory Coast(+CI / CIV)</option>
+<OPTION class='SOG_Country' value='JM'>Jamaica(+JM / JAM)</option>
+<OPTION class='SOG_Country' value='JP'>Japan(+JP / JPN)</option>
+<OPTION class='SOG_Country' value='JE'>Jersey(+JE / JEY)</option>
+<OPTION class='SOG_Country' value='JO'>Jordan(+JO / JOR)</option>
+<OPTION class='SOG_Country' value='KZ'>Kazakhstan(+KZ / KAZ)</option>
+<OPTION class='SOG_Country' value='KE'>Kenya(+KE / KEN)</option>
+<OPTION class='SOG_Country' value='KI'>Kiribati(+KI / KIR)</option>
+<OPTION class='SOG_Country' value='XK'>Kosovo(+XK / XKX)</option>
+<OPTION class='SOG_Country' value='KW'>Kuwait(+KW / KWT)</option>
+<OPTION class='SOG_Country' value='KG'>Kyrgyzstan(+KG / KGZ)</option>
+<OPTION class='SOG_Country' value='LA'>Laos(+LA / LAO)</option>
+<OPTION class='SOG_Country' value='LV'>Latvia(+LV / LVA)</option>
+<OPTION class='SOG_Country' value='LB'>Lebanon(+LB / LBN)</option>
+<OPTION class='SOG_Country' value='LS'>Lesotho(+LS / LSO)</option>
+<OPTION class='SOG_Country' value='LR'>Liberia(+LR / LBR)</option>
+<OPTION class='SOG_Country' value='LY'>Libya(+LY / LBY)</option>
+<OPTION class='SOG_Country' value='LI'>Liechtenstein(+LI / LIE)</option>
+<OPTION class='SOG_Country' value='LT'>Lithuania(+LT / LTU)</option>
+<OPTION class='SOG_Country' value='LU'>Luxembourg(+LU / LUX)</option>
+<OPTION class='SOG_Country' value='MO'>Macau(+MO / MAC)</option>
+<OPTION class='SOG_Country' value='MK'>Macedonia(+MK / MKD)</option>
+<OPTION class='SOG_Country' value='MG'>Madagascar(+MG / MDG)</option>
+<OPTION class='SOG_Country' value='MW'>Malawi(+MW / MWI)</option>
+<OPTION class='SOG_Country' value='MY'>Malaysia(+MY / MYS)</option>
+<OPTION class='SOG_Country' value='MV'>Maldives(+MV / MDV)</option>
+<OPTION class='SOG_Country' value='ML'>Mali(+ML / MLI)</option>
+<OPTION class='SOG_Country' value='MT'>Malta(+MT / MLT)</option>
+<OPTION class='SOG_Country' value='MH'>Marshall Islands(+MH / MHL)</option>
+<OPTION class='SOG_Country' value='MR'>Mauritania(+MR / MRT)</option>
+<OPTION class='SOG_Country' value='MU'>Mauritius(+MU / MUS)</option>
+<OPTION class='SOG_Country' value='YT'>Mayotte(+YT / MYT)</option>
+<OPTION class='SOG_Country' value='MX'>Mexico(+MX / MEX)</option>
+<OPTION class='SOG_Country' value='FM'>Micronesia(+FM / FSM)</option>
+<OPTION class='SOG_Country' value='MD'>Moldova(+MD / MDA)</option>
+<OPTION class='SOG_Country' value='MC'>Monaco(+MC / MCO)</option>
+<OPTION class='SOG_Country' value='MN'>Mongolia(+MN / MNG)</option>
+<OPTION class='SOG_Country' value='ME'>Montenegro(+ME / MNE)</option>
+<OPTION class='SOG_Country' value='MS'>Montserrat(+MS / MSR)</option>
+<OPTION class='SOG_Country' value='MA'>Morocco(+MA / MAR)</option>
+<OPTION class='SOG_Country' value='MZ'>Mozambique(+MZ / MOZ)</option>
+<OPTION class='SOG_Country' value='MM'>Myanmar(+MM / MMR)</option>
+<OPTION class='SOG_Country' value='NA'>Namibia(+NA / NAM)</option>
+<OPTION class='SOG_Country' value='NR'>Nauru(+NR / NRU)</option>
+<OPTION class='SOG_Country' value='NP'>Nepal(+NP / NPL)</option>
+<OPTION class='SOG_Country' value='NL'>Netherlands(+NL / NLD)</option>
+<OPTION class='SOG_Country' value='AN'>Netherlands Antilles(+AN / ANT)</option>
+<OPTION class='SOG_Country' value='NC'>New Caledonia(+NC / NCL)</option>
+<OPTION class='SOG_Country' value='NZ'>New Zealand(+NZ / NZL)</option>
+<OPTION class='SOG_Country' value='NI'>Nicaragua(+NI / NIC)</option>
+<OPTION class='SOG_Country' value='NE'>Niger(+NE / NER)</option>
+<OPTION class='SOG_Country' value='NG'>Nigeria(+NG / NGA)</option>
+<OPTION class='SOG_Country' value='NU'>Niue(+NU / NIU)</option>
+<OPTION class='SOG_Country' value='KP'>North Korea(+KP / PRK)</option>
+<OPTION class='SOG_Country' value='MP'>Northern Mariana Islands(+MP / MNP)</option>
+<OPTION class='SOG_Country' value='NO'>Norway(+NO / NOR)</option>
+<OPTION class='SOG_Country' value='OM'>Oman(+OM / OMN)</option>
+<OPTION class='SOG_Country' value='PK'>Pakistan(+PK / PAK)</option>
+<OPTION class='SOG_Country' value='PW'>Palau(+PW / PLW)</option>
+<OPTION class='SOG_Country' value='PS'>Palestine(+PS / PSE)</option>
+<OPTION class='SOG_Country' value='PA'>Panama(+PA / PAN)</option>
+<OPTION class='SOG_Country' value='PG'>Papua New Guinea(+PG / PNG)</option>
+<OPTION class='SOG_Country' value='PY'>Paraguay(+PY / PRY)</option>
+<OPTION class='SOG_Country' value='PE'>Peru(+PE / PER)</option>
+<OPTION class='SOG_Country' value='PH'>Philippines(+PH / PHL)</option>
+<OPTION class='SOG_Country' value='PN'>Pitcairn(+PN / PCN)</option>
+<OPTION class='SOG_Country' value='PL'>Poland(+PL / POL)</option>
+<OPTION class='SOG_Country' value='PT'>Portugal(+PT / PRT)</option>
+<OPTION class='SOG_Country' value='PR'>Puerto Rico(+PR / PRI)</option>
+<OPTION class='SOG_Country' value='QA'>Qatar(+QA / QAT)</option>
+<OPTION class='SOG_Country' value='CG'>Republic of the Congo(+CG / COG)</option>
+<OPTION class='SOG_Country' value='RE'>Reunion(+RE / REU)</option>
+<OPTION class='SOG_Country' value='RO'>Romania(+RO / ROU)</option>
+<OPTION class='SOG_Country' value='RU'>Russia(+RU / RUS)</option>
+<OPTION class='SOG_Country' value='RW'>Rwanda(+RW / RWA)</option>
+<OPTION class='SOG_Country' value='BL'>Saint Barthelemy(+BL / BLM)</option>
+<OPTION class='SOG_Country' value='SH'>Saint Helena(+SH / SHN)</option>
+<OPTION class='SOG_Country' value='KN'>Saint Kitts and Nevis(+KN / KNA)</option>
+<OPTION class='SOG_Country' value='LC'>Saint Lucia(+LC / LCA)</option>
+<OPTION class='SOG_Country' value='MF'>Saint Martin(+MF / MAF)</option>
+<OPTION class='SOG_Country' value='PM'>Saint Pierre and Miquelon(+PM / SPM)</option>
+<OPTION class='SOG_Country' value='VC'>Saint Vincent and the Grenadines(+VC / VCT)</option>
+<OPTION class='SOG_Country' value='WS'>Samoa(+WS / WSM)</option>
+<OPTION class='SOG_Country' value='SM'>San Marino(+SM / SMR)</option>
+<OPTION class='SOG_Country' value='ST'>Sao Tome and Principe(+ST / STP)</option>
+<OPTION class='SOG_Country' value='SA'>Saudi Arabia(+SA / SAU)</option>
+<OPTION class='SOG_Country' value='SN'>Senegal(+SN / SEN)</option>
+<OPTION class='SOG_Country' value='RS'>Serbia(+RS / SRB)</option>
+<OPTION class='SOG_Country' value='SC'>Seychelles(+SC / SYC)</option>
+<OPTION class='SOG_Country' value='SL'>Sierra Leone(+SL / SLE)</option>
+<OPTION class='SOG_Country' value='SG'>Singapore(+SG / SGP)</option>
+<OPTION class='SOG_Country' value='SX'>Sint Maarten(+SX / SXM)</option>
+<OPTION class='SOG_Country' value='SK'>Slovakia(+SK / SVK)</option>
+<OPTION class='SOG_Country' value='SI'>Slovenia(+SI / SVN)</option>
+<OPTION class='SOG_Country' value='SB'>Solomon Islands(+SB / SLB)</option>
+<OPTION class='SOG_Country' value='SO'>Somalia(+SO / SOM)</option>
+<OPTION class='SOG_Country' value='ZA'>South Africa(+ZA / ZAF)</option>
+<OPTION class='SOG_Country' value='KR'>South Korea(+KR / KOR)</option>
+<OPTION class='SOG_Country' value='SS'>South Sudan(+SS / SSD)</option>
+<OPTION class='SOG_Country' value='ES'>Spain(+ES / ESP)</option>
+<OPTION class='SOG_Country' value='LK'>Sri Lanka(+LK / LKA)</option>
+<OPTION class='SOG_Country' value='SD'>Sudan(+SD / SDN)</option>
+<OPTION class='SOG_Country' value='SR'>Suriname(+SR / SUR)</option>
+<OPTION class='SOG_Country' value='SJ'>Svalbard and Jan Mayen(+SJ / SJM)</option>
+<OPTION class='SOG_Country' value='SZ'>Swaziland(+SZ / SWZ)</option>
+<OPTION class='SOG_Country' value='SE'>Sweden(+SE / SWE)</option>
+<OPTION class='SOG_Country' value='CH'>Switzerland(+CH / CHE)</option>
+<OPTION class='SOG_Country' value='SY'>Syria(+SY / SYR)</option>
+<OPTION class='SOG_Country' value='TW'>Taiwan(+TW / TWN)</option>
+<OPTION class='SOG_Country' value='TJ'>Tajikistan(+TJ / TJK)</option>
+<OPTION class='SOG_Country' value='TZ'>Tanzania(+TZ / TZA)</option>
+<OPTION class='SOG_Country' value='TH'>Thailand(+TH / THA)</option>
+<OPTION class='SOG_Country' value='TG'>Togo(+TG / TGO)</option>
+<OPTION class='SOG_Country' value='TK'>Tokelau(+TK / TKL)</option>
+<OPTION class='SOG_Country' value='TO'>Tonga(+TO / TON)</option>
+<OPTION class='SOG_Country' value='TT'>Trinidad and Tobago(+TT / TTO)</option>
+<OPTION class='SOG_Country' value='TN'>Tunisia(+TN / TUN)</option>
+<OPTION class='SOG_Country' value='TR'>Turkey(+TR / TUR)</option>
+<OPTION class='SOG_Country' value='TM'>Turkmenistan(+TM / TKM)</option>
+<OPTION class='SOG_Country' value='TC'>Turks and Caicos Islands(+TC / TCA)</option>
+<OPTION class='SOG_Country' value='TV'>Tuvalu(+TV / TUV)</option>
+<OPTION class='SOG_Country' value='VI'>U.S. Virgin Islands(+VI / VIR)</option>
+<OPTION class='SOG_Country' value='UG'>Uganda(+UG / UGA)</option>
+<OPTION class='SOG_Country' value='UA'>Ukraine(+UA / UKR)</option>
+<OPTION class='SOG_Country' value='AE'>United Arab Emirates(+AE / ARE)</option>
+<OPTION class='SOG_Country' value='GB'>United Kingdom(+GB / GBR)</option>
+<OPTION class='SOG_Country' value='US'>United States(+US / USA)</option>
+<OPTION class='SOG_Country' value='UY'>Uruguay(+UY / URY)</option>
+<OPTION class='SOG_Country' value='UZ'>Uzbekistan(+UZ / UZB)</option>
+<OPTION class='SOG_Country' value='VU'>Vanuatu(+VU / VUT)</option>
+<OPTION class='SOG_Country' value='VA'>Vatican(+VA / VAT)</option>
+<OPTION class='SOG_Country' value='VE'>Venezuela(+VE / VEN)</option>
+<OPTION class='SOG_Country' value='VN'>Vietnam(+VN / VNM)</option>
+<OPTION class='SOG_Country' value='WF'>Wallis and Futuna(+WF / WLF)</option>
+<OPTION class='SOG_Country' value='EH'>Western Sahara(+EH / ESH)</option>
+<OPTION class='SOG_Country' value='YE'>Yemen(+YE / YEM)</option>
+<OPTION class='SOG_Country' value='ZM'>Zambia(+ZM / ZMB)</option>
+<OPTION class='SOG_Country' value='ZW'>Zimbabwe(+ZW / ZWE)</option>
+

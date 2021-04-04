@@ -26,13 +26,13 @@ s2s-member records: are YML-Files listing key:content
 <BR>The CGI-routines for the S2S-Forms to be handled by sensor.community-server, are not subject of this repository
 <BR>-----------------------------------------------------
 Split of the accommodation request:<BR>
-   <U>Part 1:</u><LI> Include proposed facility-name (Name of the school)[30 char printable]
+   <U>Part 1:</u><LI> Include proposed facility-name (Name of the school)
         <LI>Include Country of facility from ISO3166
         <LI>Include facility main language from ISO639
         <LI>Include international Languages from main   
-        <LI>Include facility email-address (general porpose address)[64 chr email]
+        <LI>Include facility email-address (general porpose address)
         <LI>include facility home-page-address (excluding protocoll&port)[has to return 200]
-        <LI>Include Location (main entry is D\°M\"S\' Hemisphere) conversion to d84 decimal
+        <LI>Include Location (main entry is D\°M\"S\' Hemisphere) conversion to 84-decimal
         <LI>Client JS will check content-against rules prior submit
 <BR><LI>CGI will test for emeil-provider return: valid address
 <LI>CGI will test for homepage-provider return: valid address no fwd

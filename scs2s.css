@@ -1,0 +1,71 @@
+/* CSS Document  for SC-Org-Managemennt*/
+body{background-image:url(graphics/comp010.jpg) ;
+    border:none;
+    }
+     
+h2 {text-align:center;
+    font-family:monospace;
+    color:blue;
+    } 
+
+#schub_canvas_main{position:relative;
+                   display:block-inline;
+                   left:5px;
+                   top:5px;
+                   width:700px:
+                   height:500px;
+                   background:rgb(224,224,224);
+                   background-image:url(graphics/back-003.gif) ;
+                   border:inset 5px rgb(255,153,51);
+                   border-radius:15px;
+                   color:black;
+                   font-family:times;
+                   font-size:12pt;
+                   font-family:serif;
+                   padding:15px;
+                   padding-top:5px;
+                   text-align:left;
+                   
+                   }     
+#schub_canvas_frm{ position:relative;
+                   display:block-inline;
+                   left:25px;
+                   top:5px;
+                   background:#F5F5E4;
+                   border:outset 5px rgb(255,153,51);
+                   border-radius:15px;
+                   color:black;
+                   font:script;
+                   font-size:12pt;
+                   font-family:times serif;
+                   padding:15px;
+                   padding-top:5px;
+                   
+                   width:500px;
+                   height:500px;
+                   text-align:left;
+                   
+                   }
+                   
+#sc_h_info, #sc_AF_info,#AR_Intro{ position:absolute;
+            display:none;
+            top:5px;
+            left:600px;
+            Width:500px;
+            height:auto;
+            background:white;
+            color: green;
+            border-radius:10px;
+            border:6px inset gray;
+            padding:8px;
+            font-size:10pt;
+            font-family:arial;
+
+}
+
+
+
+
+.ARF_Info{position:relative;display:block-inline;font-size:9pt;background:rgb(242,242,242);color:blue;padding:3px;}
+.InfoBut1{ font-size:9pt;border:brown outset 4pt;border-radius:8px;padding:5px;background:transparent;}
+.I_ButClose{font-size:9pt;background:transparent;color:af0000;}                   
